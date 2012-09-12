@@ -1,0 +1,7 @@
+= How to Install OpenNI =
+
+Instructions on how to download and install OpenNI for Windows 7 32bit. For further information
+
+== System Requirements ==
+
+== Downloads ==
