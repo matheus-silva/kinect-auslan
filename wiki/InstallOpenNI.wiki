@@ -1,7 +1,21 @@
 = How to Install OpenNI =
 
-Instructions on how to download and install OpenNI for Windows 7 32bit. For further information
-
-== System Requirements ==
+Instructions on how to download and install OpenNI for Windows 7 32bit. For further installation information the following tutorials may be useful:
+  * [http://www.codeproject.com/Articles/148251/How-to-Successfully-Install-Kinect-on-Windows-Open The Code Project: How to successfully install Kinect on Windows (OpenNI and NiTE)]
+  * [http://www.codingbeta.com/kinect-on-windows-7-using-openni-tutorial-part-1-installing-the-kinect/ Coding Beta: Kinect on Windows using OpenNI - Installing the Kinect]
+  * [https://github.com/avin2/SensorKinect#readme PrimeSense Sensor Modules for OpenNI (Kinect Mod) Readme]
 
 == Downloads ==
+
+  * [http://openni.org/Downloads/OpenNIModules.aspx OpenNI Binaries] - Select OpenNI Binaries > Unstable > Unstable Build for Windows x86
+  * [https://github.com/avin2/SensorKinect PrimeSense Sensor Modules for OpenNI (Kinect Mod)] - Select download repository as zip
+  * [http://openni.org/Downloads/OpenNIModules.aspx NiTE Middleware Binaries] - Select OpenNI Compliant Middleware Binaries > Unstable > PrimeSense NiTE Unstable Build for Windows x86
+
+== Installation process ==
+
+  # Ensure any other Kinect drivers are uninstalled
+  # Install the OpenNI Binaries
+  # Unzip the PrimeSense Sensor Modules file and navigate to and run the Windows 32 bit .msi in /bin
+  # Install the NiTE Middleware Binaries
+  # Plug in the Kinect to a USB port and wait until the driver software is found - check that the Kinect Camera, Kinect Motor and Kinect Audio are listed under PrimeSensor in Device Manager
+  # Run installed sample programs in the OpenNI folder to check correct installation
