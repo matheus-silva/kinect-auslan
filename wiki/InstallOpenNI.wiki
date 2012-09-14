@@ -11,7 +11,7 @@ Instructions on how to download and install OpenNI for Windows 7 32 bit. For fur
   * [https://github.com/avin2/SensorKinect PrimeSense Sensor Modules for OpenNI (Kinect Mod)] - Select download repository as zip
   * [http://openni.org/Downloads/OpenNIModules.aspx NiTE Middleware Binaries] - Select OpenNI Compliant Middleware Binaries > Unstable > Prime Sense NiTE Unstable Build for Windows x86
 
-== Installation process ==
+== Installation Process ==
 
   # Ensure any other Kinect drivers are uninstalled.
   # Install the OpenNI Binaries.
