@@ -16,4 +16,4 @@ Instructions on how to create a basic Visual Studio 2010 project with OpenNI lib
   # Under the Linker > Input tab add OpenNI.lib to Additional Depedendcies.
   # Select apply, return to the property manager page and save the new property sheet.
   # Copy this property sheet to a useful location for future use.
-  # When creating further Visual Studio projects with OpenNI add this property sheet to both the Release and Debug folders in the Project Manager window by right clicking the folder and selecting Add Existing Property Sheet.
+  # When creating further Visual Studio projects with OpenNI add this property sheet to both the Release and Debug folders in the Property Manager window by right clicking the folder and selecting Add Existing Property Sheet.
