@@ -15,7 +15,7 @@ Instructions on how to download and install OpenNI for Windows 7 32bit or 64bit.
 
   # Ensure any other Kinect drivers are uninstalled.
   # Install the OpenNI Binaries.
-  # Unzip the Prime Sense Sensor Modules file and navigate to and run the Windows 32bit or 64bit .msi in /bin.
+  # Unzip the Prime Sense Sensor Modules file and navigate to and run the Win32 or Win64 .msi in /bin.
   # Install the NiTE Middleware Binaries.
   # Plug in the Kinect to a USB port and wait until the driver software is found - check that the Kinect Camera, Kinect Motor and Kinect Audio are listed under Prime Sensor in Device Manager.
   # Run installed sample programs in the OpenNI folder to check correct installation.
